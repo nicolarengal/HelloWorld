@@ -1,0 +1,15 @@
+body {
+    background: black; 
+}
+
+h1 {
+    color: rgb(75, 224, 75);
+    font-family: FonteMatrix ;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    margin: 0;
+    margin-right: -50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
